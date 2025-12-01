@@ -4,7 +4,7 @@ Seminat report on Neural Dust
 ## Contents of the Repository
 
 Neural_Dust_Report.pdf – Full 22 page seminar report (Including cover page, certificate, abstract)
-Neural_Dust_Presentation.pptx – Final seminar presentation
+Presentation.pptx – Final seminar presentation
 Diagrams & Figures used in report
 References in IEEE format
 Supporting Research Notes
@@ -15,21 +15,20 @@ Neural Dust (The future of brain-computer communication) represents a transforma
 
 ## Topics Covered
 
-1. Introduction to Neural Dust
-2. History & Evolution of the Technology
-3. Working Principle of Neural Dust
-4. System Architecture & Workflow
+1. Introduction to BCI
+2. History & Evolution
+3. Working Principle
+4. Types of BCI
 5. Applications
 6. Technical & Ethical Challenges
-7. Future Trends in Neural Dust
+7. Future Trends
 Conclusion & References (IEEE format)
 
 ## Why This Topic?
 
--> Highly futuristic & not fully developed yet
--> Extension to Brain–Computer Interface (BCI) technologies
--> Useful in biomedical engineering, AI, and robotics
--> Strong academic + research potential
+- Highly futuristic & not fully developed yet
+- Useful in biomedical engineering, AI, and robotics
+- Strong academic + research potential
 
 ## Tools Used
 
